@@ -1,5 +1,8 @@
 # Bike-Count-Prediction
 
+### Detailed report
+https://github.com/karatuno/Bike-Count-Prediction/blob/master/project_final.pdf
+
 The objective of this Case is to Predication of bike rental count on daily based on the
 environmental and seasonal settings.
 
